@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alessandro-16082b144?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959347810)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=dark)
 ![viegas1409 GitHub stats](https://github-readme-stats.vercel.app/api?username=viegas1409&show_icons=true&theme=dark)
 
 ## Tecnologia que uso no meus Estudos
