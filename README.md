@@ -5,7 +5,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959347810)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=dark)
-![viegas1409 GitHub stats](https://github-readme-stats.vercel.app/api?username=viegas1409&show_icons=true&theme=dark)
+![viegas1409 GitHub stats](https://github-readme-stats.vercel.app/api?username=viegas1409&show_icons=true&theme=black)
 
 ## Tecnologia que uso no meus Estudos
 
